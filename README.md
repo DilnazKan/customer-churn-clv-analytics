@@ -7,9 +7,9 @@ Final project for the course AI for Communication & Marketing
 ## 🗂️ Project structure
 | Part | Question | Methods |
 |---|---|---|
-| 1. Segmentation | Who are our customers? | RFM, K-Means |
-| 2. Churn | Who is likely to leave? | Logistic Regression, Random Forest |
-| 3. CLV | How much is each customer worth? | BG/NBD, Gamma-Gamma |
+| [1. Segmentation](segmentation.ipynb) | Who are our customers? | RFM, K-Means |
+| [2. Churn](churn.ipynb) | Who is likely to leave? | Logistic Regression, Random Forest |
+| [3. CLV](clv.ipynb) | How much is each customer worth? | BG/NBD, Gamma-Gamma |
 
 
 ## 1️⃣ Segmentation
