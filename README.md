@@ -6,9 +6,13 @@ Final project for the course AI for Communication & Marketing
 
 ## 1️⃣ Part 1: Customer Segmentation
 Data audit & cleaning: fixed column names, imputed missing income with the median, removed duplicates, standardised inconsistent categories and handled outliers with IQR and percentiles.
+
 EDA: analysed how income, age, education, marital status and children relate to total spending, and how customers split across purchase channels.
+
 RFM segmentation: scored every customer on Recency, Frequency and Monetary value (quintiles 1–5) and grouped them into 5 segments: Champions, Loyal, New/Promising, At Risk, Lost.
+
 K-Means clustering: chose the number of clusters with the elbow method and silhouette score, then compared the clusters with the RFM segments.
+
 Communication strategy: tailored messages and channels for each segment.
 
 ## 2️⃣ Part 2: Churn Prediction
